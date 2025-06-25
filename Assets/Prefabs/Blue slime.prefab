@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 3322660838739489690}
   - component: {fileID: 7733828274761091031}
   - component: {fileID: -9104536625732913066}
+  - component: {fileID: 4185433164054405395}
   m_Layer: 0
   m_Name: Blue slime
   m_TagString: Untagged
@@ -203,3 +204,15 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &4185433164054405395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6744553772497887129}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 790b8939519c2214b9b594e703de5852, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
